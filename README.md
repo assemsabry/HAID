@@ -5,13 +5,13 @@ Histopathological AI Detection
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 **HAID (Histopathological AI Detection)** is an AI-powered deep learning model developed to detect **breast cancer** in histopathological images. It’s designed to assist **medical professionals** with faster, more consistent diagnoses, empowering hospitals and pathology labs with intelligent diagnostic tools.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - **Images:** Over 250,000 high-resolution histopathological samples  
 - **Classes:** Binary classification: `Normal` vs. `Cancer`  
@@ -22,7 +22,7 @@ Histopathological AI Detection
 
 ---
 
-## 🧱 Model Architecture
+##  Model Architecture
 
 - **Base Model:** `EfficientNetB0` (pretrained on ImageNet)
 - **Custom Layers:**
@@ -37,7 +37,7 @@ Histopathological AI Detection
 
 ---
 
-## 🏋️ Training Details
+##  Training Details
 
 - **Augmentation Techniques:**
   - Rotation ±25°
@@ -54,7 +54,7 @@ Histopathological AI Detection
 
 ---
 
-## 📊 Evaluation
+##  Evaluation
 
 - **Validation Accuracy:** ~80% *(to be updated after final evaluation)*  
 - **Classification Report:**  
@@ -68,7 +68,7 @@ Histopathological AI Detection
 
 ---
 
-## ⚙️ How to Use
+##  How to Use
 
 1. Clone the repository:
    ```bash
