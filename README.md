@@ -18,7 +18,7 @@ Histopathological AI Detection
 - **Image Size:** All images resized to `150x150` pixels  
 - **Source:** Private dataset (not publicly shared for privacy & ethical reasons)  
 - **Sample Images:**  
-  ![Sample Normal](images/sample_class0.jpg) ![Sample Cancer](images/sample_class1.jpg)
+  ![Sample Normal](class0sample.png) ![Sample Cancer](class1sample.png)
 
 ---
 
