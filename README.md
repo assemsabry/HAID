@@ -1,7 +1,7 @@
 # HAID
 Histopathological AI Detection
 
-![HAID Logo](images/haid_logo.png)
+![HAID Logo](images/HAID.png)
 
 ---
 
