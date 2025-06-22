@@ -1,8 +1,7 @@
 # HAID
 Histopathological AI Detection
 
-![HAID Logo](HAID.png)
-
+![HAID Logo](images/HAID.png)
 ---
 
 ##  Overview
@@ -18,7 +17,7 @@ Histopathological AI Detection
 - **Image Size:** All images resized to `150x150` pixels  
 - **Source:** Private dataset (not publicly shared for privacy & ethical reasons)  
 - **Sample Images:**  
-  ![Sample Normal](class0sample.png) ![Sample Cancer](class1sample.png)
+  ![Sample Normal](images/class0sample.png) ![Sample Cancer](images/class1sample.png)
 
 ---
 
