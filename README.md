@@ -155,7 +155,7 @@ This project is licensed under the MIT License.
 Developed and maintained by Assem Sabry.
 
 ## Assem Sabry
-![Assem Picture](images/assem1.png)
+![Assem Picture](images/assem1.jpg)
 
 Project Owner & Developer
 
