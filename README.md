@@ -46,7 +46,7 @@ Histopathological AI Detection
   - Brightness & Zoom range
   - Horizontal & Vertical Flips
   - Shear & Channel shift
-- **Epochs:** 30 (initial) + 20 (fine-tuning) = 50 total  
+- **Epochs:** 30 (initial) 
 - **Split:** 85% Training / 15% Validation  
 - **Early Stopping & LR Reduction:** Enabled  
 - **Hardware (AWS SageMaker):**
@@ -156,8 +156,6 @@ Developed and maintained by Assem Sabry.
 
 ## Assem Sabry
 ![Assem Picture](images/assem1.jpg)
-
-Project Owner & Developer
 
 Assem Sabry is a 17-year-old Egyptian AI Engineer with over 3 years of experience in Python and Artificial Intelligence.  
 He is the sole developer behind the HAID project and several other AI-based applications.  
